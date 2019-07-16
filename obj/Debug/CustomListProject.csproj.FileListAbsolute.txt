@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\CustomListProject\bin\Debug\CustomListProject.exe.config
+\\Mac\Home\Desktop\CustomListProject\bin\Debug\CustomListProject.exe
+\\Mac\Home\Desktop\CustomListProject\bin\Debug\CustomListProject.pdb
+\\Mac\Home\Desktop\CustomListProject\obj\Debug\CustomListProject.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CustomListProject\obj\Debug\CustomListProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CustomListProject\obj\Debug\CustomListProject.exe
+\\Mac\Home\Desktop\CustomListProject\obj\Debug\CustomListProject.pdb
